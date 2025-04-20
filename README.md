@@ -1,6 +1,6 @@
-  # 🚀 Airena
+  # 🚀 Alrena
  
- AIrena is an AI-powered platform that provides entertainment and educational experiences through various interactive features.
+ Alrena is an AI-powered platform that provides entertainment and educational experiences through various interactive features.
  
  ---
  
@@ -23,7 +23,7 @@
  ## 🧠 Team & Approach
  
  ### Team Name:  
- `Outlier Coders`
+ `Code Glitchers`
  
  ### Team Members:  
  - Mokshit Kaushik (Team Leader)  
@@ -31,7 +31,7 @@
  - Sumukhi Tripathi
  - Parth Sharma
  
- ### Your Approach:  
+ ### Approach:  
  - We chose this problem to explore the potential of advanced multimodal AI to create an interactive platform combining text, speech, image, and audio processing.
  - Focused on solving real-world needs in education, gaming, and content creation by providing personalized, real-time AI experiences.
  - Utilized Groq’s high-performance AI and agentic tooling for fast, accurate, and context-aware personalized answers.
@@ -72,14 +72,16 @@
  - ✅ AI Games: Play games enhanced with artificial intelligence  
  - ✅ Screen Recording: Record and share your gameplay experiences
  
- Add images, GIFs, or screenshots if helpful!
+![WhatsApp Image 2025-04-20 at 4 45 18 PM](https://github.com/user-attachments/assets/aa7c64f2-c056-4d86-ad96-79c3cf522420)
+![WhatsApp Image 2025-04-20 at 4 47 12 PM](https://github.com/user-attachments/assets/be9cb0da-34aa-4fbb-bfd3-2797146ff5c9)
+![WhatsApp Image 2025-04-20 at 4 43 30 PM](https://github.com/user-attachments/assets/4c19bc89-7c7e-4cb2-bf80-6a2a15ae20ae)
  
  ---
  
  ## 📽️ Demo & Deliverables
  
- - **Demo Video Link:** [Paste YouTube or Loom link here]  
- - **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]
+ - **Demo Video Link:** https://youtu.be/4pO9QZn0090
+ - **Pitch Deck / PPT Link:** https://drive.google.com/file/d/1boWBhlWa2cmIY2c1ndHBV50-wIKRa0bS/view?usp=sharing
  - **App Link:** https://airenaisthebest.onrender.com/
  
  ---
@@ -87,10 +89,9 @@
  ## ✅ Tasks & Bonus Checklist
  
  - ✅ **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
- - [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
- - [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+ - ✅ **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+ - ✅ **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
  
- *(Mark with ✅ if completed)*
  
  ---
  
@@ -104,7 +105,7 @@
  ### Local Setup:
  1. Clone the repository:
 ```bash
-git clone https://github.com/GeneralReznov/Airena.git
+git clone https://github.com/GeneralReznov/Alrena.git
 cd Airena
 ```
 
@@ -150,7 +151,7 @@ python main.py
  
  ## 📎 Resources / Credits
  
- - Groq API: Utilized for conversational AI, text-to-speech, speech-to-text, and multimodal (text, image, audio) processing.
+ - Groq API: Utilized for conversational AI, text-to-speech, speech-to-text, and multimodal (text, image, audio) processing.Uses combination of LLaMA 3.7 and LLaMA 4 models for conversation and image processing,DeepSeek 2.3 model for agentic tool usage and Whisper V3 for advanced speech-to-text and audio processing.
  - Fluvio Generator: Used to dynamically generate quizzes based on user-selected genres.
  - ScreenPipe: Integrated for secure, local screen recording and sharing features.     
  
@@ -158,7 +159,7 @@ python main.py
  
  ## Acknowledgement
  - Special thanks to Groq, Fluvio, and ScreenPipe for their sponsorship, APIs, and support in enabling advanced multimodal features.
- - Gratitude to the Namespace community and documentation teams especially Hackazards community for providing guidance and resources that accelerated project delivery.
+ - Gratitude to the NameSpace community and documentation teams especially Hackhazards community for providing guidance and resources that accelerated project delivery.
  
  ## 🏁 Final Words
  
